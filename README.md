@@ -1,2 +1,3 @@
 # javascript
-Jawaban untuk soal Skill Competency Javascript
+Terdapat 3 perintah pada perintah instruksi XHR. Instruksi pertama (xhr.onloadstart) mengganti kata "Simpan" dengan kata "Loading..". Ini saya fungsikan untuk memberitahukan kepada pengguna bahwa proses penyimpanan gambar sedang berlangsung. Perintah kedua (xhr.open) adalah untuk mengunggah gambar. Terdapat 2 parameter yang saya gunakan yaitu: Post yang berfungsi sebagai method untuk upload gambar dan keduanya saya kosongkan. Alasan saya mengosongkan adalah agar gambar tersebut tersimpan sejajar dengan file index.php. Jadi parameter kedua ini digunakan untuk link sebenarnya. namun karena tidak ada folder penyimpanan khusus, maka saya kosongkan. Instruksi kedua adalah xhr.send yang berfungsi untuk mengirimkan data input pada form (request) ke server.
+
